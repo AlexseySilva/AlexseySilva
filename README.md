@@ -33,12 +33,13 @@ Sou pai, estudante e criador do projeto [Colheita Urbana](https://gamma.app/docs
 ## 🛠️ Tecnologias & Ferramentas
 
 </div>
-## Lista de cursos feito na [**Alura**](https://cursos.alura.com.br/user/Alexsey/fullCertificate/a9d62848402941aedeb651541aa76930)
+
 ## 💻 Front-end & Mobile
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/)
+## Lista de cursos feito na [**Alura**](https://cursos.alura.com.br/user/Alexsey/fullCertificate/a9d62848402941aedeb651541aa76930)
 
 ### ⚙️ Back-end
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
@@ -123,4 +124,5 @@ Sou pai, estudante e criador do projeto [Colheita Urbana](https://gamma.app/docs
 ![Visitor Count](https://komarev.com/ghpvc/?username=AlexseySilva&color=0066ff&style=flat-square&label=Visitantes)
 
 </div>
+
 
