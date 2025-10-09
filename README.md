@@ -13,13 +13,6 @@
 
 Sou pai, estudante e criador do projeto [Colheita Urbana](https://gamma.app/docs/efkahiibi2rbqy1), apaixonado por criar soluções eficientes. Estou sempre em busca de conhecimento e aprender novas tecnologias, me considero um desenvolvedor generalista.
 
-<div align="center">
-
-## **Pílulas de conhecimento:**
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=0066FF&center=true&vCenter=true&width=600&lines=HTML;CSS;JavaScript;Python;React;Node.js;MongoDB;Git;GitHub;Sempre+Aprendendo!)
-
-</div>
 
 - 🌱 Atualmente trabalhando no meu projeto [**Colheita Urbana**](https://gamma.app/docs/efkahiibi2rbqy1)
 - 🔭 Aprendendo **novas tecnologias** constantemente
@@ -29,6 +22,14 @@ Sou pai, estudante e criador do projeto [Colheita Urbana](https://gamma.app/docs
 - ⚡ Curiosidade: **No vasto universo, as árvores são tesouros vivos que só existem em nosso planeta. Saiba mais sobre o [Colheita Urbana](https://gamma.app/docs/efkahiibi2rbqy1) e veja como cultivamos essa raridade!**
 <br>
 <div align="center">
+
+<div align="center">
+
+## **Pílulas de conhecimento:**
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=0066FF&center=true&vCenter=true&width=600&lines=HTML;CSS;JavaScript;Python;React;Node.js;MongoDB;Git;GitHub;Sempre+Aprendendo!)
+
+</div>
 
 ## 🛠️ Tecnologias & Ferramentas
 
@@ -124,5 +125,6 @@ Sou pai, estudante e criador do projeto [Colheita Urbana](https://gamma.app/docs
 ![Visitor Count](https://komarev.com/ghpvc/?username=AlexseySilva&color=0066ff&style=flat-square&label=Visitantes)
 
 </div>
+
 
 
